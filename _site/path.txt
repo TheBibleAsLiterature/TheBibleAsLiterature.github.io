@@ -1,0 +1,8 @@
+/usr/share/rvm/bin:/usr/lib/ruby/:/home/adam/.nvm/versions/node/v20.12.1/bin:/home/adam/anaconda3/bin:/home/adam/anaconda3/condabin:/home/adam/.local/bin:/usr/local/bin:/usr/bin:/bin
+
+
+http://website3-sfghjk-1234.s3-website-us-east-1.amazonaws.com/page3/
+
+https://github.com/andrewhwanpark/dark-poole
+
+http://jekyllthemes.org/themes/jekyll-clean-dark/
