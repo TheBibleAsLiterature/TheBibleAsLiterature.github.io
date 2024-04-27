@@ -20,11 +20,12 @@ layout: default
           <a class="post-link" href="{{ post.url | relative_url }}">
             {{ post.title | escape }}
           </a>
+	  {%- if post.video != "none" -%}
 	  </h3>
           <h4>
 		  <a class= "post-link" href="{{ post.video }}">Video</a>
           </h4>
-
+		{%- endif -%}
         {%- if site.show_excerpts -%}
           {{ post.excerpt }}
         {%- endif -%}
