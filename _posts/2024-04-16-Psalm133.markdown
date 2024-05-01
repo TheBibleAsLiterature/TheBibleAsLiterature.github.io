@@ -3,6 +3,7 @@ layout: post
 title:  "The Holy Spirit in Psalm 133"
 date:   2024-04-15
 categories: jekyll update
+comments: true
 video: https://www.youtube.com/watch?v=EW8Jn6biIfA 
 ---
 Psalm 133 

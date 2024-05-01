@@ -3,6 +3,7 @@ layout: post
 title:  "The Seed of the Serpent and the Seed of the Woman"
 date:   2024-04-28
 categories: jekyll update
+comments: true
 video: none 
 ---
 
